@@ -1,0 +1,15 @@
+# PlatformIO
+firmware/.pio/
+firmware/src/net/ui_gz.h
+# Android
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+# misc
+__pycache__/
+.DS_Store
+.vscode/
